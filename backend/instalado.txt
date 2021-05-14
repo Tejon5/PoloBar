@@ -1,0 +1,5 @@
+De momento tenemos instalado
+npm init -y => crae el package.json
+npm i express mongoose cors 
+npm i morgan
+npm install --save-dev nodemon
